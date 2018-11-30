@@ -28,4 +28,10 @@ body {
     background-size:3500px;
 } 
 
+div {
+  border: 1px solid black;
+  padding: 25px;
+  background-color: white;
+
+
 

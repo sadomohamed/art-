@@ -1,0 +1,31 @@
+h1 { 
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/waltograph" type="text/css"/>
+}
+p { 
+   font-family: 'THSarabunNewRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+* {
+  font-family: 'Orbitron', sans-serif;
+  color: #665544;
+  text-align: center;
+  color: white
+}
+
+body {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #3263e8;
+}
+
+body {
+    background-color: #8CC63E;
+  background-image: url(http://thisisbigfootcountry.com/wp-content/uploads/sites/47/revslider/full-screen-showcase/h5-slide-1-background-img.png);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:3500px;
+} 
+
+
